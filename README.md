@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🔭 Trabalho atualmente na CBM INFORMATICA<br>🌱 Estou estudando DSM na FATEC VOTORANTIM<br>⚡ Gosto muito de aprender coisas novas ^_^
+🤠 Tenho 20 anos<br>🔭 Trabalho atualmente na CBM INFORMATICA<br>🌱 Estou estudando DSM na FATEC VOTORANTIM<br>⚡ Gosto muito de aprender coisas novas ^_^
 
 
 ## 🌐 Socials:
