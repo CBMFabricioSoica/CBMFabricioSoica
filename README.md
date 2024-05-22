@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🤠 Tenho 20 anos<br>🔭 Estagiando atualmente na CBM INFORMATICA<br>🌱 Estou estudando DSM na FATEC VOTORANTIM<br>⚡ Gosto muito de aprender novas linguagens e métodos de programar
+🤠 Tenho 20 anos<br>🔭 Estagiando atualmente na CBM INFORMATICA<br>🌱 Estou estudando DSM na FATEC VOTORANTIM
 
 
 ## 🌐 Socials:
