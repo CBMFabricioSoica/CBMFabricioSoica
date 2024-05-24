@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FabricioSoica&icon=2&color=8)](https://visitcount.itsvg.in)
 
-![Lo-Fi GIF ^-^ ](https://myoctocat.com/assets/images/base-octocat.svg](https://i.gifer.com/6vIk.gif)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
