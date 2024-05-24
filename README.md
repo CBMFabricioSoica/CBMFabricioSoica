@@ -14,6 +14,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FabricioSoica&icon=2&color=8)](https://visitcount.itsvg.in)
 
-![6vIk](https://github.com/CBMFabricioSoica/CBMFabricioSoica/raw/main/assets/162351097/51706e12-65bc-4714-9392-ddf01f154e9e.gif)
-
-Minha conta pessoal [@FabricioSoica](https://github.com/FabricioSoica)
+🎴 Minha conta pessoal - [@FabricioSoica](https://github.com/FabricioSoica)
