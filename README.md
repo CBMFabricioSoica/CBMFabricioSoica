@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FabricioSoica&icon=2&color=8)](https://visitcount.itsvg.in)
 
-![Lo-Fi GIF](https://myoctocat.com/assets/images/base-octocat.svg)
+![Lo-Fi GIF](https://i.gifer.com/6vIk.gif)
