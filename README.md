@@ -16,4 +16,6 @@
 
 ![6vIk](https://github.com/CBMFabricioSoica/CBMFabricioSoica/raw/main/assets/162351097/51706e12-65bc-4714-9392-ddf01f154e9e.gif)
 
-![lennsan - pixelart](https://github.com/CBMFabricioSoica/CBMFabricioSoica/assets/162351097/1162e916-da2d-4562-839d-8ad572784c97)
+Minha conta pessoal @FabricioSoica
+
+![lennsan - pixelart](---adicionar aqui---)
