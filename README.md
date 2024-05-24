@@ -12,8 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FabricioSoica&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioSoica&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 Troféis do GitHub
-![](https://github-profile-trophy.vercel.app/?username=FabricioSoica&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=FabricioSoica&icon=2&color=8)](https://visitcount.itsvg.in)
