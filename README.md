@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FabricioSoica&icon=2&color=8)](https://visitcount.itsvg.in)
 
-![Lo-Fi GIF](https://i.gifer.com/6vIk.gif)
+![6vIk](https://github.com/CBMFabricioSoica/CBMFabricioSoica/assets/162351097/51706e12-65bc-4714-9392-ddf01f154e9e)
