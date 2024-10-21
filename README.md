@@ -11,7 +11,7 @@
 [![](https://visitcount.itsvg.in/api?id=FabricioSoica&icon=2&color=8)](https://visitcount.itsvg.in)
 
 
-🎴 *Está é a minha conta da empresa CBM*
+🎴 *Está é a minha conta da empresa CBM!*
 
 🎴 *Minha conta pessoal - [@FabricioSoica](https://github.com/FabricioSoica)*
 
